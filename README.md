@@ -1,4 +1,7 @@
 # JKFLIPFLOP-USING-IF-ELSE
+Name: G.Ganga Devi
+REG: 212224240042
+Date: 12-11-25
 
 **AIM:** 
 
